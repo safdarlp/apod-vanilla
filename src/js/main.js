@@ -1,5 +1,8 @@
-var apod = {
+//jquery-apod program to 
 
+
+var apod = {
+ 
     //Create a random date
     randomDate: function(start, end) {
       //Randomize the date https://gist.github.com/miguelmota/5b67e03845d840c949c4
